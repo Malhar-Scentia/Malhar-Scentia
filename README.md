@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Malhar 👋
 
-<!--
-**Malhar-Scentia/Malhar-Scentia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer at **Scentia** in Sydney.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools I work with
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,python,aws,git,vscode&theme=dark" alt="Tech stack" />
+</p>
+
+### 📫 Get in touch
+- Email: mgohel@scentia.com.au
+
